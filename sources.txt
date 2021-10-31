@@ -1,0 +1,1 @@
+npm theme link: https://www.npmjs.com/package/gatsby-wordpress-theme-phoenix
